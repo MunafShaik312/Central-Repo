@@ -18,3 +18,18 @@ o	_X  ------> Protected variable
 o	__X -----> Private variable
 o	__X__ --> Magic variable
 7.	No key word / reserved word can be used as identifier
+Data types
+Data type represent the type of data which is going to store inside the variables
+Basic Datatypes
+1.	None
+2.	Numeric ---- int,float,bool,complex
+Sequence datatypes / Data structures
+3.	string
+4.	list
+5.	tuple
+6.	set
+7.	dict
+8.	range
+9.	bytes
+10.	bytearray
+11.	frozenset
